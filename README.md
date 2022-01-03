@@ -8,3 +8,4 @@ You are a public school administrator. Some schools in your state of Tennessee a
 1. Reading the data in pandas data frame,
 2. Describing the data to find more details
 3. Finding the correlation between 'reduced_lunch' and 'school_rating'
+4. Creating a Model that can predict the rating of the school depending on the given features of the school
